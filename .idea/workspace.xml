@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53db0c23-c250-4282-88f4-37ae60d8988f" name="Default Changelist" comment="" />
+    <list default="true" id="53db0c23-c250-4282-88f4-37ae60d8988f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/features/test_retirement_calculator.feature" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,5 +33,16 @@
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
